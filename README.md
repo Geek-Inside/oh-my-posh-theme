@@ -1,5 +1,6 @@
 # oh-my-posh-theme
 Theme for terminal based on https://ohmyposh.dev/
+Best use with CaskaydiaCove NF from https://www.nerdfonts.com/font-downloads
 
 # WSL intallation
 ## Install oh-my-posh
