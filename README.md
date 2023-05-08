@@ -4,6 +4,7 @@ Theme for terminal based on https://ohmyposh.dev/
 Best use with CaskaydiaCove NF from https://www.nerdfonts.com/font-downloads
 
 # WSL intallation
+![alt text](https://github.com/Geek-Inside/oh-my-posh-theme/blob/main/wsl_bash.png?raw=true)
 ## Install oh-my-posh
 
 ```sudo wget https://github.com/JanDeDobbeleer/oh-my-posh/releases/latest/download/posh-linux-amd64 -O /usr/local/bin/oh-my-posh```
@@ -23,6 +24,7 @@ Now reload profile
  ```source ~/.bashrc```
  
 # PowerShell intallation
+![alt text](https://github.com/Geek-Inside/oh-my-posh-theme/blob/main/powershell.png?raw=true)
 ## Install oh-my-posh
 
 ```winget install JanDeDobbeleer.OhMyPosh -s winget```
