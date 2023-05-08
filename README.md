@@ -3,7 +3,7 @@ Theme for terminal based on https://ohmyposh.dev/
 
 Best use with CaskaydiaCove NF from https://www.nerdfonts.com/font-downloads
 
-# WSL intallation
+# Bash or WSL intallation
 ![alt text](https://github.com/Geek-Inside/oh-my-posh-theme/blob/main/wsl_bash.png?raw=true)
 ## Install oh-my-posh
 
